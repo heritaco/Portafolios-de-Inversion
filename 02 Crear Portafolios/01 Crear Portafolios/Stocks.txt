@@ -1,0 +1,161 @@
+AA1.MX, Servicios Financieros  
+AAL, Transporte Aéreo  
+AAPL, Tecnología  
+ABBV, Salud  
+ABNB, Turismo  
+AC, Servicios Financieros  
+ACTINVRB.MX, Servicios Financieros  
+AFRM, Tecnología Financiera  
+AGNC, Bienes Raíces  
+ALFAA.MX, Conglomerado Industrial  
+ALPEKA.MX, Materiales  
+ALSEA.MX, Consumo Discrecional  
+AMAT, Tecnología  
+AMD, Tecnología  
+AMXB.MX, Telecomunicaciones  
+AMZN, Consumo Discrecional  
+APA, Energía  
+ASURB.MX, Infraestructura  
+ATER, Tecnología  
+ATOS, Salud  
+AVGO, Tecnología  
+AXP, Servicios Financieros  
+BA, Aeroespacial  
+BABAN.MX, Consumo Discrecional  
+BAC, Servicios Financieros  
+BBAJIOO.MX, Servicios Financieros  
+BIMBOA.MX, Consumo Básico  
+BMY, Salud  
+BNGO, Salud  
+BOLSAA.MX, Servicios Financieros  
+BRKB.MX, Conglomerado Industrial  
+BYND, Consumo Discrecional  
+C, Servicios Financieros  
+CAT, Industriales  
+CCL1N.MX, Turismo  
+CEMEXCPO.MX, Materiales  
+CHDRAUIB.MX, Consumo Básico  
+CLF, Materiales  
+COST, Consumo Discrecional  
+CRM, Tecnología  
+CSCO, Tecnología  
+CUERVO.MX, Consumo Básico  
+CVS, Salud  
+CVX, Energía  
+DAL, Transporte Aéreo  
+DIS, Entretenimiento  
+DVN, Energía  
+ELEKTRA.MX, Consumo Discrecional  
+ETSY, Consumo Discrecional  
+F, Automotriz  
+FANG, Energía  
+FCX, Materiales  
+FDX, Transporte  
+FEMSAUBD.MX, Consumo Básico  
+FIBRAMQ12.MX, Bienes Raíces  
+FIBRAPL14.MX, Bienes Raíces  
+FSLR, Energía Renovable  
+FUBO, Entretenimiento  
+FUNO11.MX, Bienes Raíces  
+GAPB.MX, Infraestructura  
+GCARSOA1.MX, Conglomerado Industrial  
+GCC, Materiales  
+GE, Industriales  
+GENTERA.MX, Servicios Financieros  
+GFINBURO.MX, Servicios Financieros  
+GFNORTEO.MX, Servicios Financieros  
+GILD, Salud  
+GM, Automotriz  
+GME, Consumo Discrecional  
+GMEXICOB.MX, Materiales  
+GOLDN.MX, Minería  
+GOOGL, Tecnología  
+GRUMAB.MX, Consumo Básico  
+HD, Consumo Discrecional  
+INTC, Tecnología  
+JNJ, Salud  
+JPM, Servicios Financieros  
+KIMBERA.MX, Consumo Básico  
+KO, Consumo Básico  
+KOFUBL.MX, Consumo Básico  
+LABB.MX, Salud  
+LASITEB-1.MX, Tecnología  
+LCID, Automotriz  
+LIVEPOLC-1.MX, Consumo Discrecional  
+LLY, Salud  
+LUV, Transporte Aéreo  
+LVS, Turismo  
+LYFT, Transporte  
+MA, Servicios Financieros  
+MARA, Tecnología Financiera  
+MCD, Consumo Discrecional  
+MEGACPO.MX, Telecomunicaciones  
+MELIN.MX, Salud  
+META, Tecnología  
+MFRISCOA-1.MX, Minería  
+MGM, Turismo  
+MRK, Salud  
+MRNA, Salud  
+MRO, Energía  
+MSFT, Tecnología  
+MU, Tecnología  
+NCLHN.MX, Turismo  
+NFLX, Entretenimiento  
+NKE, Consumo Discrecional  
+NKLA, Automotriz  
+NUN.MX, Tecnología  
+NVAX, Salud  
+NVDA, Tecnología  
+OMAB, Infraestructura  
+ORBIA.MX, Materiales  
+ORCL, Tecnología  
+OXY1.MX, Energía  
+PARA, Entretenimiento  
+PBRN.MX, Energía  
+PE&OLES.MX, Minería  
+PEP, Consumo Básico  
+PFE, Salud  
+PG, Consumo Básico  
+PINFRA.MX, Infraestructura  
+PINS, Tecnología  
+PLTR, Tecnología  
+PYPL, Tecnología Financiera  
+Q.MX, Servicios Financieros  
+QCOM, Tecnología  
+RA, Energía  
+RCL, Turismo  
+RIOT, Tecnología Financiera  
+RIVN, Automotriz  
+ROKU, Tecnología  
+SBUX, Consumo Discrecional  
+SHOPN.MX, Tecnología  
+SITES1A-1.MX, Telecomunicaciones  
+SKLZ, Entretenimiento  
+SOFI, Tecnología Financiera  
+SPCE, Turismo  
+SQ, Tecnología Financiera  
+T, Telecomunicaciones  
+TALN, Educación  
+TERRA13.MX, Bienes Raíces  
+TGT, Consumo Discrecional  
+TLEVISACPO.MX, Telecomunicaciones  
+TMO, Salud  
+TSLA, Automotriz  
+TSMN.MX, Telecomunicaciones  
+TWLO, Tecnología  
+TX, Materiales  
+UAL, Transporte Aéreo  
+UBER, Transporte  
+UNH, Salud  
+UPST, Tecnología Financiera  
+V, Servicios Financieros  
+VESTA.MX, Bienes Raíces  
+VOLARA.MX, Consumo Discrecional  
+VZ, Telecomunicaciones  
+WALMEX.MX, Consumo Básico  
+WFC, Servicios Financieros  
+WMT, Consumo Básico  
+WYNN, Turismo  
+X, Materiales  
+XOM, Energía  
+ZM, Tecnología
